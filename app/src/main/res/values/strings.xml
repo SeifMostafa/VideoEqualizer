@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoEqualizer</string>
+    <string name="close_app">Close app</string>
+    <string name="change_cam">change cam</string>
+</resources>
